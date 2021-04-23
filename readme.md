@@ -88,7 +88,7 @@ See the full analysis in the [Jupyter Notebook](tanz_well.ipynb) or review this 
 
 For additional info, I can be reached at  at [siddiqui.mohammed.m@gmail.com](mailto:siddiqui.mohammed.m@gmail.com)
 
-Having trouble loading the notebook? [Jupyter Nbviewer link](https://nbviewer.jupyter.org/github/saifword/TANZ_WELL_PREDICT/blob/main/tanz_well.ipynb)
+Having trouble loading the notebook? [Jupyter Nbviewer link](https://nbviewer.jupyter.org/github/saifword/Tanz_well_predict/blob/main/tanz_well.ipynb)
 
 ## Repository Structure
 
