@@ -90,6 +90,8 @@ For additional info, I can be reached at  at [siddiqui.mohammed.m@gmail.com](mai
 
 Having trouble loading the notebook? [Jupyter Nbviewer link](https://nbviewer.jupyter.org/github/saifword/Tanz_well_predict/blob/main/tanz_well.ipynb)
 
+More information from [Us Aid](https://pdf.usaid.gov/pdf_docs/PA00WH9Z.pdf)
+
 ## Repository Structure
 
 ```
